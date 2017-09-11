@@ -1,0 +1,23 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "热启动",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddydhj/start.git"
+  },
+  "author": "dsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddydhj/start/issues"
+  },
+  "homepage": "https://github.com/ddydhj/start#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
